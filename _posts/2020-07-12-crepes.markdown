@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Crepes"
+date:   2020-07-12
+---
+#### Imagine yourself as a guest at a home in 13th century Brittany, France.
+
+You witness a housewife accidentally drop thin porridge on a flat iron skillet on a fireplace and watch as the batter forms into a thin, crispy pancake, or in other words, the world’s first crepe.
+
+Although this story is regarded as an urban legend, the crepe has been perfected and almost made into an art form since then, in addition to becoming the national dish of France.
+
+Due to the very wet climate of Northern France, many native farmers had an extremely difficult time cultivating wheat. However, around the 12th century, a grain-like seed known as buckwheat was introduced and thrived in these conditions. Buckwheat eventually started being used in various different dishes, including soups, pastries, and eventually, the crepe.
+
+Crepes have had a vast global impact since their inception. Here are a few ways other countries around the world enjoy this delicious dish:
+
+Italy: Italians enjoy a version of the French crepe called a crespelle. Crespelles are usually made using chestnut flour as opposed to buckwheat and are often filled with savory stuffings such as cured meats, veggies, and Italian cheeses.
+
+India: In southern India, the dosa, which is a large crepe-like delicacy, is made with fermented rice and lentil batter and often served with spicy sauces, known as chutneys.
+
+South Africa: The pannekoeke is very similar to a French crepe and is enjoyed as a breakfast treat. In South Africa, people fill their pannekoeken with cinnamon custard and a spiced crumble.
+
+Today’s experiment involved making delicious crepes by applying various scientific principles, one of which includes utilizing a pan’s motion to make perfectly even and thin crepes. According to Mathieu Sellier of the University of Canterbury, as well as Edouard Boujo of École Polytechnic, a pan’s motion accounts for the flow of the batter as well as the steady increase in viscosity as it cooks. This motion involves inclining the pan steeply in one direction until the batter flows from the center to the rim, then turning it in a circular motion to ensure the batter coats the pan’s circumference.
+
+Seller and Boujo devised a model which relied on a computational tool known as an “optimal control theory.” This enabled them to accurately calculate how the pan motion affects the crepe thickness. According to their data, the optimal motion involves rocking the pan slowly along one axis, then twice as fast along the perpendicular axis.
+
+The chemistry behind crepes is quite fascinating as well. Once the wet and dry ingredients are mixed, the flour absorbs much of the moisture and proteins present in the batter. When the batter is fried, the moisture begins to evaporate, causing the mixture to thicken and firm up. Moreover, the egg proteins present are sensitive to heat, causing coagulation and thickening, further giving the crepe a firmer structure. The crepe will finally turn brown, due to the Maillard reaction which occurs in which the amino acids and sugars react to create this color in addition to giving it a distinctive flavor.
+
+---
+
+## Recipe and Directions
+
+- ½ cup all-purpose flour
+- ½ cup milk
+- ¼ cup lukewarm water
+- 2 large eggs
+– 2 tablespoons unsalted butter melted
+
+1. In a large mixing bowl, whisk together the flour and the eggs. Gradually add in the milk and water, stirring to combine. Add the salt and butter and beat until smooth.
+2. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each crepe. Tilt the pan with a circular motion so that the batter coats the surface evenly.
+3. Cook the crepe for about 2 minutes, until the bottom is light brown. Loosen with a spatula, turn and cook the other side. Serve hot.
+
+---
+<br>
+
+<p align="center">
+  <img src="/images/crepes/crepes1.jpeg" width="32%" />
+  <img src="/images/crepes/crepes2.jpeg" width="32%" />
+  <img src="/images/crepes/crepes3.jpeg" width="32%" />  
+</p>
+
+
