@@ -2,6 +2,7 @@
 layout: post
 title:  "Crepes"
 date:   2020-07-12
+category: Food & Science
 ---
 #### Imagine yourself as a guest at a home in 13th century Brittany, France.
 

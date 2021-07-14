@@ -2,6 +2,7 @@
 layout: post
 title:  "Brownies"
 date:   2020-07-14
+category: Food & Science
 ---
 Regarded as one of the most simple, delicious, and versatile American baked dishes, the history of the chocolate brownie is actually quite straightforward, only appearing in the United States early 20th century. All pieces of evidence point to a baker named Fanny Farmer, who in 1905, adapted her chocolate chip cookie recipe to a bar cookie baked in a rectangular pan.
 

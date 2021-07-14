@@ -2,6 +2,7 @@
 layout: post
 title:  "Paneer & Baklava"
 date:   2020-09-04
+category: Food & Science
 ---
 Because of our family’s love for cooking as well as the unusual circumstances of COVID-19, we decided to embark on a “Chopped” challenge, in which we only use select ingredients to create a delicious dish in only a week. The week’s main ingredients were cheese, cilantro, and nuts.
 

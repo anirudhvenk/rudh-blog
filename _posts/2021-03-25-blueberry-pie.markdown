@@ -2,6 +2,7 @@
 layout: post
 title:  "Blueberry Pie"
 date:   2021-03-25
+category: Food & Science
 ---
 ### History
 

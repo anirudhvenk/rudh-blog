@@ -2,6 +2,7 @@
 layout: post
 title:  "Object Oriented Pancakes"
 date:   2020-12-30
+categories: [Food & Science, Coding]
 ---
 In many ways, I feel as though cooking is a lot like coding. Object oriented coding in specific. Object Oriented Programming helps to keep your code less repetitive making it simpler to manage and support going forward.
 
