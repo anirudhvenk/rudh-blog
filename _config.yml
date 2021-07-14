@@ -23,7 +23,7 @@ email: anirudhv05ca@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cooking, music, and coding endeavours. 
 # domain: rudh-blog.github.io 
-# baseurl: /rudh-blog/ # the subpath of your site, e.g. /blog
+baseurl: /rudh-blog/ # the subpath of your site, e.g. /blog
 # url: https://rudh-blog.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anirudhvenk
 
