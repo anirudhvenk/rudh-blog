@@ -83,7 +83,7 @@ Make sauce while baklava is baking. Boil sugar and water until sugar is melted. 
 <br>
 
 <p align="center">
-  <img src="/images/baklava/baklava1.jpeg" width="30%" />
-  <img src="/images/baklava/baklava2.jpeg" width="30%" /> 
-  <img src="/images/baklava/baklava3.jpeg" width="30%" /> 
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/baklava/baklava1.jpeg" width="30%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/baklava/baklava2.jpeg" width="30%" /> 
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/baklava/baklava3.jpeg" width="30%" /> 
 </p>

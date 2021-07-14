@@ -71,5 +71,5 @@ Remove the ribs from the oven, discard the aluminum foil and generously brush bo
 <br>
 
 <p align="center">
-  <img src="/images/ribs/ribs1.jpeg" width="50%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/ribs/ribs1.jpeg" width="50%" />
 </p>

@@ -53,7 +53,7 @@ The liquid in a pie crust produces steam, which raises the pastry and causes fla
 <br>
 
 <p align="center">
-  <img src="/images/pie/pie1.jpeg" width="27%" />
-  <img src="/images/pie/pie2.jpeg" width="27%" /> 
-  <img src="/images/pie/pie3.jpeg" width="27%" /> 
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/pie/pie1.jpeg" width="27%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/pie/pie2.jpeg" width="27%" /> 
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/pie/pie3.jpeg" width="27%" /> 
 </p>

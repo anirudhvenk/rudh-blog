@@ -67,6 +67,6 @@ public class ChocoChipPancake extends Pancake {
 <br>
 
 <p align="center">
-  <img src="/images/pancakes/pancakes1.jpeg" width="40%" />
-  <img src="/images/pancakes/pancakes2.jpeg" width="40%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/pancakes/pancakes1.jpeg" width="40%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/pancakes/pancakes2.jpeg" width="40%" />
 </p>

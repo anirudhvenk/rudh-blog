@@ -44,9 +44,9 @@ The chemistry behind crepes is quite fascinating as well. Once the wet and dry i
 <br>
 
 <p align="center">
-  <img src="/images/crepes/crepes1.jpeg" width="32%" />
-  <img src="/images/crepes/crepes2.jpeg" width="32%" />
-  <img src="/images/crepes/crepes3.jpeg" width="32%" />  
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/crepes/crepes1.jpeg" width="32%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/crepes/crepes2.jpeg" width="32%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/crepes/crepes3.jpeg" width="32%" />  
 </p>
 
 

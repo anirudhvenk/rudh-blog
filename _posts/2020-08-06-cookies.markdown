@@ -56,6 +56,6 @@ Shortening and butter make cookies tender. When mixed into flour, fat coats some
 <br>
 
 <p align="center">
-  <img src="/images/cookies/cookies1.jpeg" width="35%" />
-  <img src="/images/cookies/cookies2.jpeg" width="35%" /> 
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/cookies/cookies1.jpeg" width="35%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/cookies/cookies2.jpeg" width="35%" /> 
 </p>

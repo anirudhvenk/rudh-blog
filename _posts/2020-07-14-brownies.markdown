@@ -37,5 +37,5 @@ There are thousands of recipes to make various types of brownies, ranging from s
 <br>
 
 <p align="center">
-  <img src="/images/brownies/brownies1.jpeg" width="40%" />
+  <img src="https://anirudhvenk.github.io/rudh-blog/assets/brownies/brownies1.jpeg" width="40%" />
 </p>
