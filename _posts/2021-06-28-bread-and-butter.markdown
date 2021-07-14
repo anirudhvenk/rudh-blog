@@ -12,8 +12,6 @@ During aan outbreak of a plague in modern day Poland, a young Copernicus  notice
 
 The group denied bread was the only one that remained plague-free. But refraining from eating bread during a siege wasn’t practical. Someone suggested that if the black loaves were coated with a thin layer of churned cream, it would make it easy to detect when they’d been dropped.  If they had, the dirt could be wiped off. Copernicus supposedly adopted the suggestion and plague was eliminated at the castle.
 
-The term "bread and butter" has now become such a widely used idiom, all because a young boy wanted to find out what caused sickness in his castle.
-
 ## Science behind bread making
 
 The science behind bread-making is a simple but precise art. Although there are only four ingredients that you use in the mix, there are actually a ton of unseen chemicals that you’re working with. Flour is more than just a white powder: it contains many proteins, mainly in the form of glutenin and gliadin. It also contains a lot of carbohydrates, in the form of simple sugars like glucose, or in the form of longer chains of sugars, called starches.
@@ -26,8 +24,11 @@ The butter-making process begins with cream. The cream is a dairy product made o
 
 So, how is butter made from cream? When shaking the fresh cream, the fat molecules clump together as they get shaken out of position. These clumped fat molecules separate from the liquid and form butter. The liquid left after shaking is buttermilk.
 
+## Conclusions
 
-For fun, here are four different languages, and each way to write to print `Hello, World!` to the console.
+The term "bread and butter" has now become such a widely used idiom, all because a young boy wanted to find out what caused sickness in his castle. For fun, let's look at the bread and butter of programming!
+
+Here are four different languages, and each way to write to print `Hello, World!` to the console.
 
 #### C
 ```c
