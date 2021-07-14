@@ -4,7 +4,7 @@ title:  "Bread and Butter (of Programming)"
 date:   2021-06-28
 categories: [Food & Science, Coding]
 ---
-Bread has been the mainstay of people's diets for much of history. In fact, bread is so basic that historians can compare the purchasing power of daily pay to the price of a pound of bread to determine the relative value of salaries in different centuries. Adding fat to the bread in the form of lard, butter, or oil moistens the bread and combines fat and carbohydrates to bolster energy and nutrition. This creation has been known as "bread and butter" for the past 1000 years.
+Bread has been the mainstay of people's diets for much of history. In fact, bread is so basic that historians can compare the purchasing power of consumers to the price per pound of bread to determine the relative value of salaries in different centuries. Adding fat to the bread in the form of lard, butter, or oil moistens the bread and combines fat and carbohydrates to bolster energy and nutrition. This creation has been termed as "bread and butter" for the past 1000 years.
 
 A fantastic (and slightly exaggerated) myth regarding the inception of this meal is actually creditted to Nicolas Copernicus! (the scientist who theorized that the planets circle around the sun in the early 16th century)
 
