@@ -18,7 +18,7 @@ The science behind bread-making is a simple but precise art. Although there are 
 
 Normally, the chemicals stay in a non-reactive form as long as they’re dry. But when you add water, something changes: suddenly, they start combining and reacting to form thousands of entirely new chemicals as well. The water reactivates the yeast so they start chewing away at starches and excreting other sugars, carbon dioxide, and alcohols. Water also allows the glutenin and gliadin to combine to form a network of gluten.
 
-## Science bheind butter making
+## Science behind butter making
 
 The butter-making process begins with cream. The cream is a dairy product made of the higher-fat layer that’s skimmed from milk before homogenization. The fat in un-homogenized milk floats to the top, forming a layer high in fat, that is collected to make the cream. 
 
@@ -60,7 +60,7 @@ public class HelloWold {
 ```
 
 <br>
-Now, here is each way to write a infinite loop in the same languages above! 🙂
+Now, here is the shortest way to write a infinite loop in each of the same languages above! 🙂
 
 #### C
 ```c
