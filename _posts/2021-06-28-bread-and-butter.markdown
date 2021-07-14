@@ -6,23 +6,23 @@ categories: [Food & Science, Coding]
 ---
 For much of history, bread was the mainstay of poor people’s diets. Bread was so basic that historians can measure the relative value of salaries in different eras by comparing the purchasing power of daily wages against the price of a pound of bread. Adding fat in the form of drippings, lard, butter or oil was a way to both moisten the bread and add fat to the carbohydrates for more energy and nutrition.
 
-The invention of this dish is creditted to a wild (and probably exaggerated story) which actually includes Nicolas Copernicus! (the early 16th-century astronomer who first proposed that the planets revolve around the sun).
+The invention of this dish is creditted to a wild (and probably exaggerated story) which actually involves Nicolas Copernicus! (the early 16th-century astronomer who first proposed that the planets revolve around the sun).
 
-During aan outbreak of a plague in modern day Poland, a young Copernicus  noticed that the elderly men that had been left to guard the castle frequently dropped bread on the ground as they carried it up the steep steps from the kitchen. Suspecting this might have something to do with the spread of the disease, Copernicus divided the inhabitants into groups and distributed each a different diet.
+During an outbreak of a plague in modern day Poland, a young Copernicus  noticed that the elderly men that had been left to guard the castle frequently dropped bread on the ground as they carried it up the steep steps from the kitchen. Suspecting this might have something to do with the spread of the disease, Copernicus divided the residents into groups and distributed each a different diet.
 
-The group denied bread was the only one that remained plague-free. But refraining from eating bread during a siege wasn’t practical. Someone suggested that if the black loaves were coated with a thin layer of churned cream, it would make it easy to detect when they’d been dropped.  If they had, the dirt could be wiped off. Copernicus supposedly adopted the suggestion and plague was eliminated at the castle.
+The group denied bread was the only one that remained plague-free. But refraining from eating bread altogether wasn’t practical. Someone suggested that if the black loaves were coated with a thin layer of butter, it would make it easy to detect when they’d been dropped.  If they had, the dirt could be wiped off. Copernicus adopted the suggestion and plague was eliminated at the castle.
 
 ## Science behind bread making
 
-The science behind bread-making is a simple but precise art. Although there are only four ingredients that you use in the mix, there are actually a ton of unseen chemicals that you’re working with. Flour is more than just a white powder: it contains many proteins, mainly in the form of glutenin and gliadin. It also contains a lot of carbohydrates, in the form of simple sugars like glucose, or in the form of longer chains of sugars, called starches.
+The science behind bread-making is a simple but precise art. Although there are only four ingredients that you use in the mix, there are numerous unseen chemicals that you’re working with. Flour contains many proteins, mainly glutenin and gliadin. It also contains a lot of carbohydrates, in the form of simple sugars like glucose, or in the form of longer chains of sugars, called starches.
 
-Normally, the chemicals stay in a non-reactive form as long as they’re dry. But when you add water, something changes: suddenly, they start combining and reacting to form thousands of entirely new chemicals as well! The water reactivates the yeast so they start chewing away at starches like little Pac-men and spitting out other sugars, carbon dioxide, and alcohols. Water also allows the glutenin and gliadin to combine to form a network of stretchy super-protein: gluten.
+Normally, the chemicals stay in a non-reactive form as long as they’re dry. But when you add water, something changes: suddenly, they start combining and reacting to form thousands of entirely new chemicals as well. The water reactivates the yeast so they start chewing away at starches and excreting other sugars, carbon dioxide, and alcohols. Water also allows the glutenin and gliadin to combine to form a network of gluten.
 
 ## Science bheind butter making
 
 The butter-making process begins with cream. The cream is a dairy product made of the higher-fat layer that’s skimmed from milk before homogenization. The fat in un-homogenized milk floats to the top, forming a layer high in fat, that is collected to make the cream. 
 
-So, how is butter made from cream? When shaking the fresh cream, the fat molecules clump together as they get shaken out of position. These clumped fat molecules separate from the liquid and form butter. The liquid left after shaking is buttermilk.
+When one shakes the fresh cream, the fat molecules clump together as they get shaken out of position. These clumped fat molecules separate from the liquid and form butter. The liquid left after shaking is known as buttermilk.
 
 ## Conclusions
 
